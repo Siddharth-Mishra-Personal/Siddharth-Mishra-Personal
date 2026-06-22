@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Siddharth Mishra
 
-### 🚀 Full-Stack Engineer, Data Science and Business Enthusiast
+### 🚀 Full-Stack Engineer, Data Science and Building Enthusiast
 Passable about building scalable web applications, designing interactive user interfaces, and solving real-world challenges using machine learning data pipelines.
 
 ---
