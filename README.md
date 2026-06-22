@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Siddharth-Mishra-Personal/Siddharth-Mishra-Personal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Siddharth Mishra
 
-Here are some ideas to get you started:
+### 🚀 Full-Stack Engineer, Data Science and Business Enthusiast
+Passable about building scalable web applications, designing interactive user interfaces, and solving real-world challenges using machine learning data pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Skills
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Flexbox/Grid |
+| **Backend & Tools** | Node.js, Python, Git, GitHub Actions, Linux |
+| **Data Science & ML** | Pandas, NumPy, Scikit-Learn, Folium, Jupyter |
+
+---
+
+## 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=Siddharth-Mishra-Personal&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-Mishra-Personal&layout=compact&theme=radical)
+
+---
+
+## ✉️ Let's Connect!
+- 💼 **LinkedIn**: https://www.linkedin.com/in/siddharth-mishra-a3a41b238/
+- 🌐 **Portfolio**: https://vercel.com/siddharthmishra/siddharth-portfolio
+- 📧 **Email**: sidmishra2004@gmail.com
